@@ -1,0 +1,11 @@
+<templateSet group="Zen HTML">
+  <template name="input" value="&lt;input type=&quot;$VAR0$&quot;/&gt;" description="&lt;input type=&quot;...&quot;/&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;text&quot;" alwaysStopAt="true" />
+    <variable name="a" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="gig" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="buddy" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

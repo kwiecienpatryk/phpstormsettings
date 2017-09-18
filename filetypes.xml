@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern="ValidatorServiceProvider" type="PHP" />
+      <mapping pattern="js-person-image.js" type="PLAIN_TEXT" />
+      <mapping pattern="Readme-install" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sess_ktujtjqp2en7tee18a0qdm3c91" type="PLAIN_TEXT" />
+      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="blade" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
